@@ -1,15 +1,12 @@
 {
   "list": [
     {
-      // 评论id
       "rpid": 3,
-      // 用户信息
       "user": {
         "uid": "13258165",
-        "avatar": "car",
+        "avatar": "/images/car.jpg",
         "uname": "周杰伦"
       },
-      // 评论内容
       "content": "哎哟，不错哦",
       "ctime": "2023-10-18 08:15",
       "like": 88
@@ -18,7 +15,7 @@
       "rpid": 2,
       "user": {
         "uid": "36080105",
-        "avatar": "forest",
+        "avatar": "/images/forrest.jpg",
         "uname": "许嵩"
       },
       "content": "我寻你千百度 日出到迟暮",
@@ -29,7 +26,7 @@
       "rpid": 1,
       "user": {
         "uid": "30009257",
-        "avatar": "forest",
+        "avatar": "/images/forest.jpg",
         "uname": "黑马前端"
       },
       "content": "学前端就来黑马",
@@ -40,7 +37,7 @@
       "rpid": 4,
       "user": {
         "uid": "30009007",
-        "avatar": "car",
+        "avatar": "/images/car.jpg",
         "uname": "元宇宙"
       },
       "content": "我轻轻来，不带走一片云彩；我轻轻地走，不招惹一片尘埃！",
@@ -51,7 +48,7 @@
       "rpid": 5,
       "user": {
         "uid": "30009005",
-        "avatar": "avatar",
+        "avatar": "/images/bozai.png",
         "uname": "青玉"
       },
       "content": "玉如意，玉如意，我爱她如玉，却不如意！",
@@ -62,7 +59,7 @@
       "rpid": 6,
       "user": {
         "uid": "30009006",
-        "avatar": "forest",
+        "avatar": "/images/boat.jpg",
         "uname": "小白"
       },
       "content": "我是小白，我是小白，我是小白白！",
@@ -73,7 +70,7 @@
       "rpid": 7,
       "user": {
         "uid": "30009008",
-        "avatar": "forest",
+        "avatar": "/images/forest.jpg",
         "uname": "小黑"
       },
       "content": "我是小黑，我是小黑，我是小黑黑！",
@@ -84,7 +81,7 @@
       "rpid": 8,
       "user": {
         "uid": "30009009",
-        "avatar": "forest",
+        "avatar": "/images/laptop.jpg",
         "uname": "小红"
       },
       "content": "I love this city, the food, the people, the air, the life.",
@@ -95,7 +92,7 @@
       "rpid": 9,
       "user": {
         "uid": "30009010",
-        "avatar": "forest",
+        "avatar": "/images/motor.jpg",
         "uname": "小黄"
       },
       "content": "千树万树梨花开",
@@ -106,7 +103,7 @@
       "rpid": 10,
       "user": {
         "uid": "30009011",
-        "avatar": "forest",
+        "avatar": "/images/phone.jpg",
         "uname": "小蓝"
       },
       "content": "青州有芳草，萋萋润其华！",

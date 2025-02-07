@@ -118,10 +118,10 @@ function App() {
             width: '420px'
         }}>
 
-                <textarea key='description' style={{display: 'block'}} rows={6} cols={40}
-                          value={content}
-                          ref={contentRef}
-                          onChange={(e) => setContent(e.target.value)}>< /textarea>
+            <textarea key='description' style={{display: 'block'}} rows={6} cols={40}
+                        value={content}
+                        ref={contentRef}
+                        onChange={(e) => setContent(e.target.value)}></textarea>
 
             <span style={{display: 'inline-block', marginTop: '10px', marginBottom: '10px', width: '100%'}}>
                 <button style={{
